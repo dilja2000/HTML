@@ -1,0 +1,96 @@
+.main{
+    background-color: rgb(224, 217, 217);
+}
+
+.heading{
+    margin-left: 150px;
+    margin-bottom: 5px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    
+    
+}
+.list{
+    margin-left: 80px;
+    
+}
+
+.first{
+    display: flex;
+    background-color: white;
+}
+.list{
+    display: flex;
+    margin-left: 150px;
+}
+.icon{
+   margin-top: 20px;
+   margin-left: 200px;
+   
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+    
+}
+
+.box{
+    height: 350px;
+    width: 350px;
+    
+}
+
+#box1{
+    background-color: white;
+    
+}
+
+#box2{
+    background-color: white; 
+}
+#box3{
+    background-color: white; 
+}
+img{
+    width: 170px;
+    height: 170px;
+    margin-left: 90px;
+}
+button{
+    margin-left: 120px;
+}
+.fa-magnifying-glass{
+    border: 1px solid;
+    height: 25px;
+    width: 25px;
+   margin-left: 10px;
+    background-color: gray;
+   align-content: center;
+    
+}
+.fa-cart-shopping{
+    border: 1px solid;
+    height: 25px;
+    width: 25px;
+    margin-left: 11px;
+    background-color: gray;
+    align-content: center;
+    align-items: center;
+
+}
+.fa-user{
+    border: 1px solid;
+    height: 25px;
+    width: 25px;
+    margin-left: 12px;
+    background-color: gray;
+    align-content: center;
+
+}
+
+
+

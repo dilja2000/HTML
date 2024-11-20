@@ -1,0 +1,75 @@
+.first{
+    background: rgb(72, 72, 122);
+   height: 100%;
+   display: flex;
+}
+h1{
+    color: white;
+   margin-left: 250px;
+  
+}
+
+label{
+    color: white;
+}
+.inputs{
+    margin-left: 300px;
+    gap: 100px;  
+    
+}
+#log{
+    background: rgb(72, 72, 122);
+    color: white;
+    margin-left: 40px;
+    
+}
+img{
+    width: 400px;
+    height:200px ;
+    margin-left: 1px;
+}
+p{
+    margin-left:150px ;
+}
+#box1{
+    width: 350px;
+}
+#box2{
+    width: 350px;
+}
+.second{
+    display: flex;
+    margin-left: 200px;
+    gap: 100px;
+}
+p{
+    margin-left: 1px;
+}
+
+
+#sign{
+    height: 35px;
+    width: 200px;
+    background-color: rgb(61, 185, 61);
+    font-size: 18px;
+    color: white;
+}
+#email{
+    margin-left: 1px;
+}
+#para{
+  margin-left: 60px;
+  color: white;
+}
+#box3{
+    width: 180px;
+    margin-left: 80px;
+}
+#box4{
+    width: 180px;
+    margin-left: 20px;
+}
+#password{
+    margin-right: 100px;
+}
+

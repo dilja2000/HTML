@@ -1,0 +1,171 @@
+.first{
+    position: fixed;
+}
+
+ul{
+    list-style: none;
+    color: gray;
+    display: flex;
+    
+    margin-left: 900px;
+    
+    font-family: sans-serif;
+    
+   
+}
+#reg{
+   
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    height: 30px;
+}
+img{
+    height:40px ;
+    width: 50px;
+    margin-left: 100px;
+    margin-top:30px ;
+}
+.title{
+    margin-top: 150px;
+    margin-left: 150px;
+    font-family:sans-serif;
+
+
+}
+#head{
+    margin-left: 100px;
+    font-family:sans-serif;
+}
+.para1{
+    color: gray;
+    margin-left: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#bold{
+    margin-left:10px ;
+    font-family:sans-serif;
+
+}
+.flex{
+    display: flex;
+}
+#img1{
+ margin-left: 95px;
+}
+#img2{
+    margin-left: 1px;
+
+}
+#img3{
+    margin-left: 1px;
+
+}
+
+
+#pic1{
+    width: 500px;
+    height: 400px;
+    margin-left: 55px;
+    margin-top: 60px;
+}
+#heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#para2{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 15px;
+}
+.flex2{
+    display: flex;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fa-user-graduate{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.fa-chalkboard-user{
+    margin-left: 90px;
+    margin-top: 25px;
+}
+
+.fa-square-person-confined{
+    margin-top: 1px;
+    margin-right: 900px;
+}
+.fa-chart-line{
+   
+    margin-top: 50px;
+}
+
+.fa-chart-line{
+    margin-left: 620px;
+
+}
+.activity{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+    margin-bottom: 1px;
+    
+}
+#book{
+    height: 30px;
+   
+    background-color: rgb(202, 224, 224);
+    color: blue;
+    height: 40px;
+    width: 100px;
+    border-color:rgb(202, 224, 224);;
+}
+#star{
+    margin-right: 1px;
+    margin-top: 50px;
+}
+#std{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 50px;
+    padding-top: 1px;
+}
+#rate{
+    font-size: 40px;
+}
+#ss1{
+    width: 350px;
+    height: 400px;
+}
+.divide{
+    display: flex;
+}
+#ss2{
+    width: 350px;
+    height: 400px;
+
+}
+.center{
+    align-items: center;
+    text-align: center;
+}
+.sec2{
+    display: flex;
+}
+.left1{
+    background-color: yellow;
+    height: 500px;
+    width: 400px;
+
+}
+.center1{
+    background-color: yellowgreen;
+    height: 500px;
+    width: 600px;
+}
+.right1{
+    background-color: yellow;
+    height: 500px;
+    width: 400px;
+}
